@@ -1,1 +1,3 @@
+### Task 2: Student Digital Portfolio Reflection
 
+As a Student Digital Ambassador, I established my professional presence by setting up foundational profiles on GitHub, LinkedIn, and Kaggle. GitHub serves as my primary space for version control and project hosting, while LinkedIn allows me to build a professional network and document my academic milestones, such as my current B.Tech degree.Kaggle will be my dedicated platform for exploring data science and participating in community challenges.Over the next four years, I plan to consistently update these platforms with my certifications, coding projects, and research interests to ensure a robust and credible digital footprint for future employers.
