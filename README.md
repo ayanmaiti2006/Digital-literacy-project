@@ -45,7 +45,7 @@ Researched a detailed case study on **UPI/Online Payment Fraud** and compiled a 
 
 ## 🔗 Project Links
 * **Digital Literacy Quiz:** https://forms.gle/D51j9cUbPkDncdsK6 
-* **GitHub Profile:** [Insert your GitHub Profile Link Here] 
+* **GitHub Profile:** https://github.com/ayanmaiti2006/Digital-literacy-project.git 
 * **LinkedIn Profile:** www.linkedin.com/in/ayan-maiti-5781b5396
 
 ---
